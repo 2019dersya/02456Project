@@ -5,13 +5,14 @@
     <link>https://2019dersya.github.io/02456Project/</link>
     <description>Recent content on AVAlanche of Music</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://2019dersya.github.io/02456Project/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Nov 2021 13:14:22 +0100</lastBuildDate><atom:link href="https://2019dersya.github.io/02456Project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://2019dersya.github.io/02456Project/my-first-post2/</link>
+      <link>https://2019dersya.github.io/02456Project/posts/my-first-post2/</link>
       <pubDate>Wed, 24 Nov 2021 13:14:22 +0100</pubDate>
       
-      <guid>https://2019dersya.github.io/02456Project/my-first-post2/</guid>
+      <guid>https://2019dersya.github.io/02456Project/posts/my-first-post2/</guid>
       <description>Testing important things like pictures and links Beautiful background
 Cool Video
 How do we build the network?</description>
@@ -19,10 +20,10 @@ How do we build the network?</description>
     
     <item>
       <title></title>
-      <link>https://2019dersya.github.io/02456Project/website/</link>
+      <link>https://2019dersya.github.io/02456Project/posts/website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://2019dersya.github.io/02456Project/website/</guid>
+      <guid>https://2019dersya.github.io/02456Project/posts/website/</guid>
       <description>First question: does markdown work? Heeelp </description>
     </item>
     
