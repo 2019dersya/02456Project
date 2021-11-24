@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://2019dersya.github.io/02456Project/</loc>
-    <lastmod>2021-11-24T13:14:22+01:00</lastmod>
-  </url><url>
-    <loc>https://2019dersya.github.io/02456Project/posts/my-first-post2/</loc>
-    <lastmod>2021-11-24T13:14:22+01:00</lastmod>
-  </url><url>
-    <loc>https://2019dersya.github.io/02456Project/posts/</loc>
-    <lastmod>2021-11-24T13:14:22+01:00</lastmod>
-  </url><url>
-    <loc>https://2019dersya.github.io/02456Project/posts/website/</loc>
-  </url><url>
-    <loc>https://2019dersya.github.io/02456Project/categories/</loc>
-  </url><url>
-    <loc>https://2019dersya.github.io/02456Project/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://2019dersya.github.io/02456Project/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://2019dersya.github.io/02456Project/fr/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
